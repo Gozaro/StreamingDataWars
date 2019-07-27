@@ -1,9 +1,0 @@
-Crear una carpeta en:
-
-
-OSX:
-/user/documents/Processing/libraries: 
-Windows:
-Documents/Processing
-
-Que se llame: twitter4j y otra dentro que se llame library y poner en ella los archivos .jar que hay dentro de la carpeta “libraries” que habéis descargado
