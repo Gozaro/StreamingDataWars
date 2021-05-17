@@ -15,6 +15,8 @@ https://processing.org/download/
 
 You need to add twitter4j folder to your libraries folder.
 
+IMPORTANT!!!! After placing libraries into libraries folder make sure to restart processing.
+
 You will need to get some Twitter Developer keys to acces to the API.
 
 Enjoy experimenting with different tags : )
